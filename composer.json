@@ -1,0 +1,12 @@
+{
+    "name": "kevinpgrant/composer-foo",
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "composer",
+            "url": "http://satis.internal.nevynweb.co.uk/"
+        }
+    ]
+}
